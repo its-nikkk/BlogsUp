@@ -108,4 +108,4 @@ This will populate your MongoDB database with initial data for testing purposes.
 5. Submit a pull request.
 
 ## Made by
-its-nikkk and @Prajjwalupadhyay15
+@its-nikkk and @Prajjwalupadhyay15
